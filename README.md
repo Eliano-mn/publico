@@ -1,6 +1,6 @@
 # *Alguns dados em estudo, análise:*
 
-##**1. Covid-19:**
+## **1. Covid-19:**
 
    * Apresentação dos dados no Power BI.
    
@@ -8,7 +8,7 @@
 
    * Fonte: Ministério da saúde (https://covid.saude.gov.br/)
 
-##**2. Acidentes em rodovias brasileiras:**
+## **2. Acidentes em rodovias brasileiras:**
 
    * Apresentação dos dados no Power BI.
    
