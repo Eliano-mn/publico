@@ -11,3 +11,7 @@
  * Especialização em Engenharia e Administração de Bancos de dados.
    
     * PDF no repositório com nome: Engenharia e Administração de Bancos de dados
+ 
+ * Demo do Banco de Dados Neo4J
+  
+    * Vídeo da apresentação susinta no repositório com o nome de: Vídeo Demo-Banco de dados Neo4j
