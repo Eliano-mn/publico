@@ -1,8 +1,8 @@
 # Informações pessoais
 
-## Tenho formação na área de tecnologia de dados. Sou eterno estudante de tecnologias.
+## Tenho formação na área de tecnologia de dados. Sou eterno estudante, aprendiz de tecnologias.
 
-### Segue trabalho de conclusão de cursos de TI realizados.  
+### Segue trabalhos realizados de conclusões de cursos de TI.  
 
  * Especialização em Análise de dados com BI e Big Data.
    
