@@ -16,5 +16,12 @@
    
    * Fonte: PRF (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-acidentes)
 
+## **3. Demostração de dados fictícios de sistema financeiro**
+
+   * Apresentação dos dados no Power BI.
+   
+     _link_ - https://app.powerbi.com/view?r=eyJrIjoiZjNhMzA1MmItYmI2ZS00MzI0LWI2YmEtMmIxMjlhMTljNWFmIiwidCI6ImM2YzEwNjczLTQ0NjItNGQ3My04NTkxLTEzYmVjZTA5ZDI1YiJ9
+   
+   * Aviso: Empresa e Dados fictícios 
    
     
