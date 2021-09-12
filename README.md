@@ -1,4 +1,4 @@
-# * Dados em estudo, análise:*
+# **Dados em estudo, análise:**
 
 ## **1. Covid-19**
 
