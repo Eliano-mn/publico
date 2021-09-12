@@ -1,6 +1,6 @@
 # Informações pessoais
 
-## Tenho formação em tecnologia de dados. Sou eterno aprendiz e estudante na área de tecnologias.
+## Tenho formação em tecnologia de dados. Sou eterno aprendiz e estudante na área de tecnologia.
 
 ### Segue trabalhos realizados de conclusões de cursos de TI.  
 
