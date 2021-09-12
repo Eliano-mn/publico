@@ -1,6 +1,6 @@
 # **Dados em estudo, análise:**
 
-## **1. Covid-19**
+## **1.Covid-19**
 
    * Apresentação dos dados no Power BI.
    
@@ -8,7 +8,7 @@
 
    * Fonte: Ministério da saúde (https://covid.saude.gov.br/)
 
-## **2. Acidentes em rodovias brasileiras**
+## **2.Acidentes em rodovias brasileiras**
 
    * Apresentação dos dados no Power BI.
    
@@ -16,7 +16,7 @@
    
    * Fonte: PRF (https://www.gov.br/prf/pt-br/acesso-a-informacao/dados-abertos/dados-abertos-acidentes)
 
-## **3. Demostração dos dados fictícios de uma empresa do sistema financeiro**
+## **3.Demostração dos dados fictícios de uma empresa do sistema financeiro**
 
    * Apresentação dos dados no Power BI.
    
