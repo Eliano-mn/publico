@@ -1,6 +1,6 @@
-# Informações pessoal
+# Informações pessoais
 
-##Tenho formação na área de tecnologia de dados, sou eterno estudante da área de TI.
+## Tenho formação na área de tecnologia de dados, sou eterno estudante da área de TI.
 
 ### Segue trabalho de conclusão de cursos de TI realizados.  
 
