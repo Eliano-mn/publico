@@ -1,7 +1,11 @@
-# publico
-Alguns dados em estudo, análise:
+# Informações pessoal
 
-1- Covid - fonte Ministério da saúde.
+##Tenho formação na área de tecnologia de dados, sou eterno estudante da área de TI.
 
-2- Acidentes em rodovias brasileiras - fonte PRF.
+### Segue trabalho de conclusão de cursos de TI realizados.  
+
+ * Especialização em Análise de dados com BI e Big Data.
+ 
+
+ * Especialização em Engenharia de Banco de dados.
 
